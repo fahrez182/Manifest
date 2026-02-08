@@ -3,15 +3,15 @@
   "id": "2026_02_08",
   "rules": {
     "minVersionCode": 0,
-    "maxVersionCode": 1,
+    "maxVersionCode": 2,
     "minSdk": 26,
     "channel": [
       "stable"
     ]
   },
   "policy": {
-    "force": true,
-    "allowClose": false,
+    "force": false,
+    "allowClose": true,
     "cooldownHours": 0
   },
   "content": {
