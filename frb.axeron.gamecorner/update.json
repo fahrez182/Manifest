@@ -11,12 +11,15 @@
   },
   "policy": {
     "force": false,
-    "allowClose": true,
+    "allowClose": false,
     "cooldownHours": 0
   },
   "content": {
-    "title": "Update tersedia",
-    "subtitle": "ada update bos"
+    "title": "Update Available",
+    "subtitle": "You need to update App",
+    "changelog": [
+      "fix: can't launch game"
+    ]
   },
   "actions": [
     {
@@ -24,6 +27,11 @@
       "text": "Update",
       "type": "open_url",
       "url": "https://google.com"
+    },
+    {
+      "id": "dismiss",
+      "text": "Later",
+      "type": "dismiss"
     }
   ]
 }
