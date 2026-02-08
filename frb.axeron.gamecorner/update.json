@@ -6,30 +6,24 @@
     "maxVersionCode": 140,
     "minSdk": 26,
     "channel": [
-      "stable",
-      "beta"
+      "stable"
     ]
   },
   "policy": {
-    "force": true,
+    "force": false,
     "allowClose": true,
-    "cooldownHours": 12
+    "cooldownHours": 0
   },
   "content": {
     "title": "Update tersedia",
-    "subtitle": "Ada perbaikan penting di versi terbaru.",
-    "changelog": [
-      "Fix crash saat load data",
-      "Optimasi performa",
-      "UI lebih rapi"
-    ]
+    "subtitle": "ada update bos"
   },
   "actions": [
     {
       "id": "update",
       "text": "Update",
       "type": "open_url",
-      "url": "market://details?id=com.xxx"
+      "url": "https://google.com"
     }
   ]
 }
