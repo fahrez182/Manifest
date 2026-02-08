@@ -10,7 +10,7 @@
     ]
   },
   "policy": {
-    "force": false,
+    "force": true,
     "allowClose": false,
     "cooldownHours": 0
   },
