@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "id": "2026_02_08",
   "rules": {
-    "minVersionCode": 110,
-    "maxVersionCode": 140,
+    "minVersionCode": 0,
+    "maxVersionCode": 2,
     "minSdk": 26,
     "channel": [
       "stable"
