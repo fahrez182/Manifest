@@ -15,18 +15,18 @@
     "cooldownHours": 0
   },
   "content": {
-    "title": "Update Available",
-    "subtitle": "You need to update App",
+    "title": "Testing Version",
+    "subtitle": "This app is still on testing",
     "changelog": [
-      "fix: can't launch game"
+      "new: Add Aim Assistant"
     ]
   },
   "actions": [
     {
-      "id": "update",
-      "text": "Update",
+      "id": "join",
+      "text": "Join",
       "type": "open_url",
-      "url": "https://google.com"
+      "url": "https://whatsapp.com/channel/0029VamjH8L7oQhf4ZE2vU0u"
     },
     {
       "id": "dismiss",
