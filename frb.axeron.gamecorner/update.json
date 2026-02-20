@@ -3,7 +3,7 @@
   "id": "2026_02_08",
   "rules": {
     "minVersionCode": 0,
-    "maxVersionCode": 2,
+    "maxVersionCode": 104,
     "minSdk": 26,
     "channel": [
       "stable"
@@ -16,7 +16,7 @@
   },
   "content": {
     "title": "Testing Version",
-    "subtitle": "This app is still on testing",
+    "subtitle": "Aplikasi ini masih dalam tahap testing, jadi fiturnya belum lengkap, jadi jangan lupa join Channel WhatsApp ya!",
     "changelog": [
       "new: Add Aim Assistant"
     ]
