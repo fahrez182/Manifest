@@ -18,7 +18,9 @@
     "title": "Testing Version",
     "subtitle": "Aplikasi ini masih dalam tahap testing, jangan lupa follow buat dapetin info terbaru!",
     "changelog": [
-      "new: Add Aim Assistant"
+      "new: Add New Crosshair",
+      "new: Add Monitor Info",
+      "new: Add DriftSense (Gyro Only)"
     ]
   },
   "actions": [
