@@ -25,14 +25,20 @@
   },
   "actions": [
     {
-      "id": "join",
-      "text": "Join",
+      "id": "whatsapp",
+      "text": "Follow WhatsApp",
       "type": "open_url",
       "url": "https://whatsapp.com/channel/0029VamjH8L7oQhf4ZE2vU0u"
     },
     {
-      "id": "dismiss",
-      "text": "Later",
+      "id": "tiktok",
+      "text": "Follow TikTok",
+      "type": "open_url",
+      "url": "https://tiktok.com/@fahrezone"
+    },
+    {
+      "id": "later",
+      "text": "Nanti",
       "type": "dismiss"
     }
   ]
