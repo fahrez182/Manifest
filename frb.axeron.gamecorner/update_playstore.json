@@ -3,7 +3,7 @@
   "id": "2026_02_08",
   "rules": {
     "minVersionCode": 0,
-    "maxVersionCode": 104,
+    "maxVersionCode": 107,
     "minSdk": 26,
     "channel": [
       "stable"
@@ -16,7 +16,7 @@
   },
   "content": {
     "title": "Testing Version",
-    "subtitle": "This app is still on testing",
+    "subtitle": "Test notifikasi update untuk versi PlayStore!",
     "changelog": [
       "new: Add Aim Assistant"
     ]
