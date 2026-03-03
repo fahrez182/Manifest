@@ -3,7 +3,7 @@
   "id": "2026_02_08",
   "rules": {
     "minVersionCode": 0,
-    "maxVersionCode": 107,
+    "maxVersionCode": 10800,
     "minSdk": 26,
     "channel": [
       "stable"
@@ -20,15 +20,16 @@
     "changelog": [
       "new: Add New Crosshair",
       "new: Add Monitor Info",
-      "new: Add DriftSense (Gyro Only)"
+      "new: Add DriftSense (Gyro Only)",
+      "new: Smallest Width Changer"
     ]
   },
   "actions": [
     {
       "id": "whatsapp",
-      "text": "Follow WhatsApp",
+      "text": "Update?",
       "type": "open_url",
-      "url": "https://whatsapp.com/channel/0029VamjH8L7oQhf4ZE2vU0u"
+      "url": "https://whatsapp.com/channel/0029VamjH8L7oQhf4ZE2vU0u/698"
     },
     {
       "id": "tiktok",
