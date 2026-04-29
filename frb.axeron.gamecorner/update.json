@@ -3,7 +3,7 @@
   "id": "2026_02_08",
   "rules": {
     "minVersionCode": 0,
-    "maxVersionCode": 10800,
+    "maxVersionCode": 10940,
     "minSdk": 26,
     "channel": [
       "stable"
@@ -15,25 +15,19 @@
     "cooldownHours": 0
   },
   "content": {
-    "title": "Testing Version",
-    "subtitle": "Aplikasi ini masih dalam tahap testing, jangan lupa follow buat dapetin info terbaru!",
-    "changelog": [
-      "new: Add New Crosshair",
-      "new: Add Monitor Info",
-      "new: Add DriftSense (Gyro Only)",
-      "new: Smallest Width Changer"
-    ]
+    "title": "Information",
+    "subtitle": "Don't forget to join official Whatsapp Channel"
   },
   "actions": [
     {
       "id": "whatsapp",
-      "text": "Update?",
+      "text": "Join?",
       "type": "open_url",
       "url": "https://whatsapp.com/channel/0029VamjH8L7oQhf4ZE2vU0u/698"
     },
     {
       "id": "tiktok",
-      "text": "Follow TikTok",
+      "text": "Follow?",
       "type": "open_url",
       "url": "https://tiktok.com/@fahrezone"
     },
