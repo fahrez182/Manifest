@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "user_id": "3dc18b57",
-  "tier": "basic",
-  "valid_until": "2026-06-30 06:30 PM",
+  "tier": "lifetime",
+  "valid_until": null,
   "granted_at": "2026-05-31 06:30 PM",
   "features": [],
   "meta": {}
