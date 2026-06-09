@@ -10,8 +10,8 @@
     ]
   },
   "policy": {
-    "force": false,
-    "allowClose": true,
+    "force": true,
+    "allowClose": false,
     "cooldownHours": 0
   },
   "content": {
