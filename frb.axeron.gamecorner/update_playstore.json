@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "id": "2026_02_08",
+  "rules": {
+    "minVersionCode": 0,
+    "maxVersionCode": 12400,
+    "minSdk": 26,
+    "channel": [
+      "stable"
+    ]
+  },
+  "policy": {
+    "force": false,
+    "allowClose": true,
+    "cooldownHours": 0
+  },
+  "content": {
+    "title": "Information",
+    "subtitle": "Don't forget to join official Whatsapp Channel"
+  },
+  "actions": [
+    {
+      "id": "whatsapp",
+      "text": "Join?",
+      "type": "open_url",
+      "url": "https://whatsapp.com/channel/0029VamjH8L7oQhf4ZE2vU0u"
+    },
+    {
+      "id": "tiktok",
+      "text": "Follow?",
+      "type": "open_url",
+      "url": "https://tiktok.com/@fahrezone"
+    },
+    {
+      "id": "later",
+      "text": "Nanti",
+      "type": "dismiss"
+    }
+  ]
+}
