@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "user_id": "Id",
+  "user_id": ":",
   "tier": "basic",
   "valid_until": "2026-08-20 08:16 PM",
   "granted_at": "2026-07-20 08:16 PM",
