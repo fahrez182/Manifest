@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "upd_2026_02_08_a",
+  "id": "upd_2026_08_14_a",
   "rules": {
-    "minVersionCode": 0,
-    "maxVersionCode": 12810,
+    "minVersionCode": 15000,
+    "maxVersionCode": 15400,
     "minSdk": 29,
     "channel": [
       "stable",
@@ -13,15 +13,14 @@
   "policy": {
     "force": false,
     "allowClose": true,
-    "cooldownHours": 12
+    "cooldownHours": 8
   },
   "content": {
     "title": "Update tersedia",
-    "subtitle": "Ada perbaikan penting di versi terbaru.",
+    "subtitle": "Ada perbaikan penting di versi terbaru.",0
     "changelog": [
-      "Fix crash saat load data",
-      "Optimasi performa",
-      "UI lebih rapi"
+      "Fix crash",
+      "Performance optimization",
     ]
   },
   "actions": [
@@ -29,11 +28,11 @@
       "id": "update",
       "text": "Update",
       "type": "open_url",
-      "url": "market://details?id=com.xxx"
+      "url": "https://play.google.com/store/apps/details?id=frb.axeron.redcorner"
     },
     {
       "id": "later",
-      "text": "Nanti",
+      "text": "Later",
       "type": "dismiss"
     }
   ]
