@@ -2,15 +2,15 @@
   "schemaVersion": 1,
   "id": "2026_02_08",
   "rules": {
-    "minVersionCode": 0,
-    "maxVersionCode": 12800,
+    "minVersionCode": 19000,
+    "maxVersionCode": 19800,
     "minSdk": 26,
     "channel": [
       "stable"
     ]
   },
   "policy": {
-    "force": false,
+    "force": true,
     "allowClose": true,
     "cooldownHours": 0
   },
