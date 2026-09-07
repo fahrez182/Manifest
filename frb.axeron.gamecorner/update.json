@@ -3,7 +3,7 @@
   "id": "2026_02_08",
   "rules": {
     "minVersionCode": 19000,
-    "maxVersionCode": 19800,
+    "maxVersionCode": 19600,
     "minSdk": 26,
     "channel": [
       "stable"
