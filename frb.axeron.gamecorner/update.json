@@ -30,11 +30,6 @@
       "text": "Follow?",
       "type": "open_url",
       "url": "https://tiktok.com/@fahrezone"
-    },
-    {
-      "id": "later",
-      "text": "Nanti",
-      "type": "dismiss"
     }
   ]
 }
