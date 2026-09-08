@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "id": "2026_02_08",
   "rules": {
-    "minVersionCode": 0,
-    "maxVersionCode": 12800,
+    "minVersionCode": 19000,
+    "maxVersionCode": 19800,
     "minSdk": 26,
     "channel": [
       "stable"
@@ -15,15 +15,15 @@
     "cooldownHours": 0
   },
   "content": {
-    "title": "Information",
+    "title": "Update Available",
     "subtitle": "Don't forget to join official Whatsapp Channel"
   },
   "actions": [
     {
       "id": "whatsapp",
-      "text": "Join?",
+      "text": "Update?",
       "type": "open_url",
-      "url": "https://whatsapp.com/channel/0029VamjH8L7oQhf4ZE2vU0u"
+      "url": "https://whatsapp.com/channel/0029VamjH8L7oQhf4ZE2vU0u/1705"
     },
     {
       "id": "tiktok",
