@@ -3,7 +3,7 @@
   "id": "upd_2026_08_14_a",
   "rules": {
     "minVersionCode": 15000,
-    "maxVersionCode": 15400,
+    "maxVersionCode": 24000,
     "minSdk": 29,
     "channel": [
       "stable",
@@ -16,8 +16,8 @@
     "cooldownHours": 8
   },
   "content": {
-    "title": "Update tersedia",
-    "subtitle": "Ada perbaikan penting di versi terbaru.",0
+    "title": "Update available",
+    "subtitle": "Update now",0
     "changelog": [
       "Fix crash",
       "Performance optimization",
