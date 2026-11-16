@@ -2,8 +2,8 @@
   "schemaVersion": 1,
   "id": "upd_2026_08_14_a",
   "rules": {
-    "minVersionCode": 15000,
-    "maxVersionCode": 24000,
+    "minVersionCode": 19000,
+    "maxVersionCode": 22000,
     "minSdk": 29,
     "channel": [
       "stable",
